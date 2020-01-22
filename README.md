@@ -11,8 +11,8 @@ X matrix as N x 5 (N = trials)
 
 References:
 1) Determining a role for ventromedial prefrontal cortex in encoding action-based value signals during reward-related decision making
-   Jan Glascher, Alan N. Hampton and John P. OÕDoherty
+   Jan Glascher, Alan N. Hampton and John P. ODoherty
 2) The role of the ventromedial prefrontal cortex in abstract state-based inference during decision making in humans
-   Alan N. Hampton, Peter Bossaerts, and John P. OÕDoherty
+   Alan N. Hampton, Peter Bossaerts, and John P. ODoherty
 3) Neural computations underlying action-based decision making in the human brain
-   Klaus Wunderlich, Antonio Rangel, and John P. O'Doherty
+   Klaus Wunderlich, Antonio Rangel, and John P. ODoherty
